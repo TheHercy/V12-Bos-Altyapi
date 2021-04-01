@@ -11,7 +11,7 @@
 
 
 
-# Komutlar
+# Kurulum
 * ![Komutlar](https://github.com/TheHercy/V12-Bos-Altyap-/edit/main/README.md)
 
 
