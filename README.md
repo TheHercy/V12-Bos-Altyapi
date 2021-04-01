@@ -12,7 +12,7 @@
 
 
 # Neler gerekli?
-* ![Node.JS'in] makinenizde yüklü olduğundan emin olun.(https://nodejs.org/en/)
+* [Node.JS'in](https://nodejs.org/en/) makinenizde yüklü olduğundan emin olun.
 
 
 Yapmak istediğiniz botlar için harika bir temel...
