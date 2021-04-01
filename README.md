@@ -17,7 +17,8 @@
   "prefix": "Prefixiniz", 
   "sahip": "Sizinİd'niz",
   "token": "BotunuzTokeni"
-}``` 
+}
+``` 
 
 Burada `"prefix":` karşısına botun önekini(prefixini) girin.
 Burada `"sahip":` karşısına kendi id'nizi girin girin.
