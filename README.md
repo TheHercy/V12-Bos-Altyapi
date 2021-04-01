@@ -3,7 +3,7 @@
 ### V12 Boş Altyapı 
 
 - [Kurulum & Kullanım](#kurulum)
-- [Neler gerekli?](#Neler gerekli?)
+- [Neler gerekli?](#Neler-gerekli?)
 
 
 # Kurulum
@@ -12,7 +12,7 @@
 
 
 # Neler gerekli?
-* ![Node.JS'in](https://nodejs.org/en/) makinenizde yüklü olduğundan emin olun.
+* ![Node.JS'in] makinenizde yüklü olduğundan emin olun.(https://nodejs.org/en/)
 
 
 Yapmak istediğiniz botlar için harika bir temel...
