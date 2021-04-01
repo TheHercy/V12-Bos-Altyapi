@@ -1,0 +1,23 @@
+{
+  "name": "hercy.js",
+  "version": "0.0.1",
+  "description": "Hercy Boş Altyapı Sunar...",
+  "main": "hercy.js",
+  "scripts": {
+    "test": "node hercy.js"
+  },
+  "keywords": [
+    "bos",
+    "altyapı"
+  ],
+  "author": "Hercy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3"
+  }
+}
