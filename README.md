@@ -16,7 +16,7 @@
 
 
 
-# Neler gerekli?
+# neler-gerekli?
 * ![Node.JS'in makinenize yüklü olduğundan emin olun]()
 
 
