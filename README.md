@@ -4,11 +4,6 @@
 
 - [Kurulum & Kullanım](#kurulum)
 - [Neler gerekli?](#gerek)
-- []()
-- []()
-- []()
-
-
 
 
 # Kurulum
@@ -16,8 +11,8 @@
 
 
 
-# neler-gerekli?
-* ![Node.JS'in makinenize yüklü olduğundan emin olun]()
+# gerek
+* ![Node.JS'in](https://nodejs.org/en/) makinenizde yüklü olduğundan emin olun.
 
 
 Yapmak istediğiniz botlar için harika bir temel...
