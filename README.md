@@ -26,6 +26,8 @@ Burada `"token":` karşısına [Discord Developers Portal](https://discord.com/d
 
 🎉 Ve run.bat dosyasını açınız ve botunuz aktif! Artık yeni kodlarınızı, komutlarınız ekleyebilirsiniz iyi kodlamalar... 🎉
 
+Eğer bir sorunla karşılaşırsanız Discord kullanıcı adım : Hercy 🍁#6930 ID'im : 756421339635515464
+
 
 ```md
 Yapmak istediğiniz botlar için harika bir temel...
