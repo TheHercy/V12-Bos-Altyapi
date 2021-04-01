@@ -3,15 +3,15 @@
 ### V12 Boş Altyapı 
 
 - [Kurulum & Kullanım](#kurulum)
-- [Neler gerekli?](#gerek)
+- [Neler gerekli?](#Neler gerekli?)
 
 
 # Kurulum
-* ![Komutlar](https://github.com/TheHercy/V12-Bos-Altyap-/edit/main/README.md)
+* ![Komutlar](#)
 
 
 
-# gerek
+# Neler gerekli?
 * ![Node.JS'in](https://nodejs.org/en/) makinenizde yüklü olduğundan emin olun.
 
 
