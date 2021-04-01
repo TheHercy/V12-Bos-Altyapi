@@ -12,7 +12,7 @@
 * Botun dosyasını zip olarak indirin. Ve zip dosyasının üstüne sağ tıklayıp klasöre ayıkla butonuna basın ardından gelen klasörü açın.
 * Klasörde boş bir yerde `shift + sağ tık` yapıp PowerShell penceresini burada açın diyin ve oraya `npm install` yazıp enterlayın. Artık botun modülleri indi.
 * Şimdi sıra `ayarlar.json` dosyasını düzenlemeye geldi.
-```js
+```json
 {
   "prefix": "Prefixiniz", 
   "sahip": "Sizinİd'niz",
