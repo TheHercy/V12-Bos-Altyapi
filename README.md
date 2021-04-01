@@ -2,7 +2,7 @@
 
 ### V12 Boş Altyapı 
 
-- [Kurulum & Kullanım](#yapılacaklar)
+- [Yapılacaklar](#yapılacaklar)
 
 # Önemli
 * [Node.JS'in](https://nodejs.org/en/) makinenizde yüklü olduğundan emin olun.
