@@ -2,16 +2,22 @@
 
 ### V12 Boş Altyapı 
 
-- [Discord Register Bot](#discord-register-bot)
-    - [Kurulum & Kullanım](#kurulum)
-
-
+- [Kurulum & Kullanım](#kurulum)
+- [Neler gerekli?](#gerek)
+- []()
+- []()
+- []()
 
 
 
 
 # Komutlar
 * ![Komutlar](https://github.com/TheHercy/V12-Bos-Altyap-/edit/main/README.md)
+
+
+
+# Neler gerekli?
+* ![Node.JS'in makinenize yüklü olduğundan emin olun]()
 
 
 Yapmak istediğiniz botlar için harika bir temel...
