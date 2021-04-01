@@ -4,11 +4,11 @@
 
 - [Yapılacaklar](#yapılacaklar)
 
-# Önemli
+## Önemli
 * [Node.JS'in](https://nodejs.org/en/) makinenizde yüklü olduğundan emin olun.
 * quick.db modülünün makinenizde yüklü olduğundan emin olun. ***Not : Yakın zamanda bunun hakkında bir repository gelecek***
 
-# Yapılacaklar
+## Yapılacaklar
 * Botun dosyasını zip olarak indirin. Ve zip dosyasının üstüne sağ tıklayıp klasöre ayıkla butonuna basın ardından gelen klasörü açın.
 * Klasörde boş bir yerde `shift + sağ tık` yapıp PowerShell penceresini burada açın diyin ve oraya `npm install` yazıp enterlayın. Artık botun modülleri indi.
 * Şimdi sıra `ayarlar.json` dosyasını düzenlemeye geldi.
