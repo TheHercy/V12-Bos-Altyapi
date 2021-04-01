@@ -6,7 +6,7 @@
 
 ## Önemli
 * [Node.JS'in](https://ay.link/JSnode) makinenizde yüklü olduğundan emin olun.
-* quick.db modülünün makinenizde yüklü olduğundan emin olun. ***Not : Yakın zamanda bunun hakkında bir repository gelecek***
+* [quick.db](https://github.com/TheHercy/quick.db-nasil-kurulur) modülünün makinenizde yüklü olduğundan emin olun. 
 
 ## Yapılacaklar
 * Botun dosyasını zip olarak indirin. Ve zip dosyasının üstüne sağ tıklayıp klasöre ayıkla butonuna basın ardından gelen klasörü açın.
