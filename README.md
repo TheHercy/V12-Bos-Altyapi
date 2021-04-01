@@ -24,7 +24,7 @@ Burada `"prefix":` karşısına botun önekini(prefixini) girin.
 Burada `"sahip":` karşısına kendi id'nizi girin girin.
 Burada `"token":` karşısına [Discord Developers Portal](https://discord.com/developers/applications/) kısmından aldığınız tokeni giriniz.
 
-🎉 Ve run.bat dosyasını açınız ve botunuz aktif! Artık yeni kodlarınızı, komutlarınız ekleyebilirsiniz iyi kodlamalar... 🎉
+🎉 Ve run.bat dosyasını açınız ve botunuz aktif! Unutmayın altyapının içerisinde hazır olarak gelen `ping` ve `sil` komudu bulunmakta ister silebilir ister değiştirebilirsiniz. Artık yeni kodlarınızı, komutlarınız ekleyebilirsiniz iyi kodlamalar... 🎉
 
 Eğer bir sorunla karşılaşırsanız Discord kullanıcı adım : `Hercy 🍁#6930` ID'im : `756421339635515464`
 
