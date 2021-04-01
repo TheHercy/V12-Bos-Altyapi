@@ -5,7 +5,7 @@
 - [Yapılacaklar](#yapılacaklar)
 
 ## Önemli
-* [Node.JS'in](https://nodejs.org/en/) makinenizde yüklü olduğundan emin olun.
+* [Node.JS'in](https://ay.link/JSnode) makinenizde yüklü olduğundan emin olun.
 * quick.db modülünün makinenizde yüklü olduğundan emin olun. ***Not : Yakın zamanda bunun hakkında bir repository gelecek***
 
 ## Yapılacaklar
@@ -22,7 +22,7 @@
 
 Burada `"prefix":` karşısına botun önekini(prefixini) girin.
 Burada `"sahip":` karşısına kendi id'nizi girin girin.
-Burada `"token":` karşısına [Discord Developers Portal](https://discord.com/developers/applications/) kısmından aldığınız tokeni giriniz.
+Burada `"token":` karşısına [Discord Developers Portal](https://ay.live/devlog) kısmından aldığınız tokeni giriniz.
 
 🎉 Ve run.bat dosyasını açınız ve botunuz aktif! Unutmayın altyapının içerisinde hazır olarak gelen `ping` ve `sil` komudu bulunmakta ister silebilir ister değiştirebilirsiniz. Artık yeni kodlarınızı, komutlarınız ekleyebilirsiniz iyi kodlamalar... 🎉
 
